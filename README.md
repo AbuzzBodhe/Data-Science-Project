@@ -13,8 +13,8 @@
 
 ## Skills
 
-Data Collection: Experience in designing efficient data collection methods for real-world scenarios
-Data Cleaning and Wrangling: Proficient in handling raw data, standardizing formats, and integrating multiple datasets
-Data Visualization: Skilled in creating informative visualizations and infographics to communicate complex data insights
+- Data Collection: Experience in designing efficient data collection methods for real-world scenarios
+- Data Cleaning and Wrangling: Proficient in handling raw data, standardizing formats, and integrating multiple datasets
+- Data Visualization: Skilled in creating informative visualizations and infographics to communicate complex data insights
 
 
